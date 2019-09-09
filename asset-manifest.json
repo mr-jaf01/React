@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/React/static/css/main.591f44b5.chunk.css",
+    "main.js": "/React/static/js/main.317cbcfb.chunk.js",
+    "main.js.map": "/React/static/js/main.317cbcfb.chunk.js.map",
+    "runtime~main.js": "/React/static/js/runtime~main.a065ca15.js",
+    "runtime~main.js.map": "/React/static/js/runtime~main.a065ca15.js.map",
+    "static/css/2.2e57c628.chunk.css": "/React/static/css/2.2e57c628.chunk.css",
+    "static/js/2.f7334359.chunk.js": "/React/static/js/2.f7334359.chunk.js",
+    "static/js/2.f7334359.chunk.js.map": "/React/static/js/2.f7334359.chunk.js.map",
+    "index.html": "/React/index.html",
+    "precache-manifest.18d673e7a4c2dc38823f78eae6b649a3.js": "/React/precache-manifest.18d673e7a4c2dc38823f78eae6b649a3.js",
+    "service-worker.js": "/React/service-worker.js",
+    "static/css/2.2e57c628.chunk.css.map": "/React/static/css/2.2e57c628.chunk.css.map",
+    "static/css/main.591f44b5.chunk.css.map": "/React/static/css/main.591f44b5.chunk.css.map",
+    "static/media/mdb.css": "/React/static/media/arrow_right.8ef6a08c.svg",
+    "static/media/av2.jpg": "/React/static/media/av2.2beab2ba.jpg",
+    "static/media/blg.jpeg": "/React/static/media/blg.d51ed960.jpeg",
+    "static/media/all.min.css": "/React/static/media/fa-solid-900.d6d8d5da.woff2",
+    "static/media/sm.png": "/React/static/media/sm.90a460fd.png",
+    "static/media/sm2.png": "/React/static/media/sm2.332b4530.png"
+  }
+}
